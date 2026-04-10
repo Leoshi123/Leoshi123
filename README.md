@@ -12,11 +12,11 @@
 
 ### > whoami
 
-Estudiante de Ingeniería Informática apasionado por la IA y el desarrollo de software de calidad. Building bases sólidas y aprendiendo algo nuevo cada día.
+Estudiante de programación enfocado en construir bases sólidas. Estudiando Ing. Informática y profundizando conocimientos en desarrollo de software e IA por mi cuenta.
 
 - 🎓 Estudiando **Ing. Informática**
-- 🧠 Enfoque: **IA & Machine Learning**
-- ⚡ Filosofía: Escribo código que quiero leer mañana
+- 🧠 Enfoque: **Desarrollo de IA y optimización de código**
+- ⚡ Filosofía: Calidad sobre velocidad. Aprendizaje constante.
 
 ---
 
@@ -24,12 +24,26 @@ Estudiante de Ingeniería Informática apasionado por la IA y el desarrollo de s
 
 ```json
 {
-  "languages":   ["Python", "Java", "C", "C++"],
-  "web":        ["HTML", "CSS", "JavaScript", "PHP"],
+  "languages":   ["C", "C++", "Java", "Python", "JavaScript", "PHP"],
+  "web":        ["HTML", "CSS"],
   "databases":  ["MySQL"],
-  "learning":   ["Machine Learning", "Clean Code", "Arquitectura"]
+  "learning":  ["IA", "Machine Learning", "Arquitectura"]
 }
 ```
+
+---
+
+### Tecnologías
+
+<img src="https://skillicons.app/icons/c.svg" height="25" />
+<img src="https://skillicons.app/icons/cplusplus.svg" height="25" />
+<img src="https://skillicons.app/icons/java-dark.svg" height="25" />
+<img src="https://skillicons.app/icons/python-dark.svg" height="25" />
+<img src="https://skillicons.app/icons/javascript.svg" height="25" />
+<img src="https://skillicons.app/icons/php.svg" height="25" />
+<img src="https://skillicons.app/icons/mysql.svg" height="25" />
+<img src="https://skillicons.app/icons/html5.svg" height="25" />
+<img src="https://skillicons.app/icons/css3.svg" height="25" />
 
 ---
 
@@ -37,9 +51,9 @@ Estudiante de Ingeniería Informática apasionado por la IA y el desarrollo de s
 
 ```
 01 // Calidad sobre velocidad
-02 // Entender antes de usar
-03 // Código para el que lo hereda mañana
-04 // Aprendizaje constante
+02 // Aprendizaje constante
+03 // Construir bases sólidas
+04 // Escribir código limpio y mantenible
 ```
 
 ---
@@ -48,7 +62,7 @@ Estudiante de Ingeniería Informática apasionado por la IA y el desarrollo de s
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper) | 🛡️ Middleware de seguridad para agentes de IA. Detecta +60 vulnerabilidades, limpiador de metadatos y secretos, MCP Server integrada. |
+| [AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper) | 🛡️ Middleware de seguridad para agentes de IA. Detecta +60 vulnerabilidades, limpiador de metadatos y secretos, MCP Server integrado. |
 
 ---
 
