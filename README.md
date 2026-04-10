@@ -56,6 +56,7 @@ Estudiante de programación enfocado en construir bases sólidas. Estudiando Ing
 | Proyecto | Descripción |
 |----------|-------------|
 | [AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper) | 🛡️ Middleware de seguridad para agentes de IA. Detecta +60 vulnerabilidades, limpiador de metadatos y secretos, MCP Server integrado. |
+| [leoshi-blogges](https://github.com/Leoshi123/leoshi-blogges) | 📝 Blog personal desarrollado con tecnologías modernas. |
 
 ---
 
