@@ -1,45 +1,58 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Ing.+Inform%C3%A1tica;Apasionado+por+la+IA+y+Machine+Learning;Escribiendo+c%C3%B3digo+que+quiero+leer+ma%C3%B1ana" alt="Typing SVG" />
-</div>
+```
+██████  ██    ██ ██████  ██████   ██████ ██   ██  ██████  ██████  ██████  
+██   ██ ██    ██ ██   ██      ██ ██      ██  ██  ██  ████ ██   ██      ██ 
+██████  ██    ██ ██████   █████  ██      █████   ██ ██ ██ ██████   █████  
+██   ██ ██    ██ ██   ██      ██ ██      ██  ██  ████  ██ ██   ██      ██ 
+██   ██  ██████  ██████  ██████   ██████ ██   ██  ██████  ██   ██ ██████  
+```
+
+**`Ricardo (Leoshi)`** — Estudiante de Ing. Informática
 
 ---
 
-### 📍 Sobre mí
+### > whoami
 
-- 🧠 **Enfoque**: IA & Machine Learning, desarrollo de software de calidad
-- 🎯 **Meta**: Grow as a software engineer y contribuir a proyectos open source
-- 📚 **Aprendiendo**: Machine Learning, Clean Code, patrones de arquitectura
-- ⚡ **Filosofía**: Escribo código que quiero leer mañana
+Estudiante de Ingeniería Informática apasionado por la IA y el desarrollo de software de calidad. Building bases sólidas y aprendiendo algo nuevo cada día.
 
-### 🛠️ Stack tecnológico
+- 🎓 Estudiando **Ing. Informática**
+- 🧠 Enfoque: **IA & Machine Learning**
+- ⚡ Filosofía: Escribo código que quiero leer mañana
 
-**Lenguajes:**
-- 🐍 **Python**
-- ☕ **Java**
-- 💻 **C / C++**
+---
 
-**Web:**
-- 🌐 **HTML/CSS**
-- 📜 **JavaScript**
-- 🐘 **PHP**
+### > cat stack.json
 
-**Bases de datos:**
-- 🗄️ **MySQL**
+```json
+{
+  "languages":   ["Python", "Java", "C", "C++"],
+  "web":        ["HTML", "CSS", "JavaScript", "PHP"],
+  "databases":  ["MySQL"],
+  "learning":   ["Machine Learning", "Clean Code", "Arquitectura"]
+}
+```
 
-**Especializaciones:**
-- 🤖 **IA & Machine Learning**: Formándome con MoureDev y Gentleman Programming
-- 🧬 **Arquitectura**: Aprendiendo a escribir código limpio y mantenible
+---
 
-### 📂 Proyectos
+### > cat principios.txt
 
-**[AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper)** 🛡️
-> Middleware de seguridad para agentes de IA. Detecta +60 vulnerabilidades, limpiador de metadatos y secretos, MCP Server integrado.
+```
+01 // Calidad sobre velocidad
+02 // Entender antes de usar
+03 // Código para el que lo hereda mañana
+04 // Aprendizaje constante
+```
 
-### 📊 Estadísticas
+---
 
-![Stats](https://github-readme-stats-dieego.vercel.app/api/wakatime?username=Leoshi123&theme=radical&layout=compact&hide_border=true)
+### > recentProjects
 
-### 🔗 Conectemos
+| Proyecto | Descripción |
+|----------|-------------|
+| [AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper) | 🛡️ Middleware de seguridad para agentes de IA. Detecta +60 vulnerabilidades, limpiador de metadatos y secretos, MCP Server integrada. |
+
+---
+
+### > connect
 
 - [LinkedIn](https://www.linkedin.com/in/leoshi-sorey-35a4bb302/)
 
