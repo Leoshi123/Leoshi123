@@ -41,8 +41,7 @@
 
 ### 🔗 Conectemos
 
-- [LinkedIn](https://linkedin.com/in/leoshi)
-- [Twitter](https://twitter.com/leoshi)
+- [LinkedIn](https://www.linkedin.com/in/leoshi-sorey-35a4bb302/)
 
 ---
 
