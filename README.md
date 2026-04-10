@@ -14,43 +14,36 @@
 ### 🛠️ Stack tecnológico
 
 **Lenguajes:**
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- 🐍 **Python**
+- ☕ **Java**
+- 💻 **C / C++**
 
 **Web:**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+- 🌐 **HTML/CSS**
+- 📜 **JavaScript**
+- 🐘 **PHP**
 
 **Bases de datos:**
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+- 🗄️ **MySQL**
 
 **Especializaciones:**
-- 🤖 **IA & Machine Learning**: Formándome con la metodología de MoureDev y Gentleman Programming
+- 🤖 **IA & Machine Learning**: Formándome con MoureDev y Gentleman Programming
 - 🧬 **Arquitectura**: Aprendiendo a escribir código limpio y mantenible
 
 ### 📂 Proyectos
 
-[![AIGatekeeper](https://github-readme-stats.vercel.app/api/pin/?username=Leoshi123&repo=AIGatekeeper&theme=tokyonight)](https://github.com/Leoshi123/AIGatekeeper)
-
-**[AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper)** - 🛡️ Middleware de seguridad para agentes de IA
-- Detecta +60 vulnerabilidades en múltiples lenguajes
-- Limpiador de metadatos y secretos
-- MCP Server para integración con Claude Code, Cursor, Windsurf
+**[AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper)** 🛡️
+> Middleware de seguridad para agentes de IA. Detecta +60 vulnerabilidades, limpiador de metadatos y secretos, MCP Server integrado.
 
 ### 📊 Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Leoshi123&show_icons=true&theme=tokyonight" alt="Leoshi123's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoshi123&layout=compact&theme=tokyonight" alt="Top Languages" />
+![Stats](https://github-readme-stats-dieego.vercel.app/api/wakatime?username=Leoshi123&theme=radical&layout=compact&hide_border=true)
 
 ### 🔗 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leoshi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leoshi)
+- [LinkedIn](https://linkedin.com/in/leoshi)
+- [Twitter](https://twitter.com/leoshi)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
