@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Apasionado+por+la+IA+y+Machine+Learning;Escribiendo+c%C3%B3digo+que+quiero+leer+ma%C3%B1ana" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Ing.+Inform%C3%A1tica;Apasionado+por+la+IA+y+Machine+Learning;Escribiendo+c%C3%B3digo+que+quiero+leer+ma%C3%B1ana" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,6 +32,15 @@
 - 🤖 **IA & Machine Learning**: Formándome con la metodología de MoureDev y Gentleman Programming
 - 🧬 **Arquitectura**: Aprendiendo a escribir código limpio y mantenible
 
+### 📂 Proyectos
+
+[![AIGatekeeper](https://github-readme-stats.vercel.app/api/pin/?username=Leoshi123&repo=AIGatekeeper&theme=tokyonight)](https://github.com/Leoshi123/AIGatekeeper)
+
+**[AIGatekeeper](https://github.com/Leoshi123/AIGatekeeper)** - 🛡️ Middleware de seguridad para agentes de IA
+- Detecta +60 vulnerabilidades en múltiples lenguajes
+- Limpiador de metadatos y secretos
+- MCP Server para integración con Claude Code, Cursor, Windsurf
+
 ### 📊 Estadísticas
 
 <img src="https://github-readme-stats.vercel.app/api?username=Leoshi123&show_icons=true&theme=tokyonight" alt="Leoshi123's Stats" />
@@ -39,8 +48,8 @@
 
 ### 🔗 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leoshi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leoshi)
 
 ---
 
