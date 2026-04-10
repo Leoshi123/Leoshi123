@@ -36,15 +36,7 @@ Estudiante de programación enfocado en construir bases sólidas. Estudiando Ing
 
 ### Tecnologías
 
-<img src="https://skillicons.app/icons/c.svg" height="25" />
-<img src="https://skillicons.app/icons/cplusplus.svg" height="25" />
-<img src="https://skillicons.app/icons/java-dark.svg" height="25" />
-<img src="https://skillicons.app/icons/python-dark.svg" height="25" />
-<img src="https://skillicons.app/icons/javascript.svg" height="25" />
-<img src="https://skillicons.app/icons/php.svg" height="25" />
-<img src="https://skillicons.app/icons/mysql.svg" height="25" />
-<img src="https://skillicons.app/icons/html5.svg" height="25" />
-<img src="https://skillicons.app/icons/css3.svg" height="25" />
+🦀 **C** · 🐘 **C++** · ☕ **Java** · 🐍 **Python** · 📜 **JavaScript** · 🐘 **PHP** · 🗄️ **MySQL** · 🌐 **HTML** · 🎨 **CSS**
 
 ---
 
