@@ -49,8 +49,8 @@ Estudiante de programación enfocado en construir bases sólidas. Estudiando Ing
 ### Herramientas IA
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> VSCode
-<img src="https://logo.svgcdn.com/simple-icons/anthropic.svg" height="30"/> Anthropic
-<img src="https://logo.svgcdn.com/simple-icons/openai.svg" height="30"/> OpenAI
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="30"/> Anthropic
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="30"/> OpenAI
 
 ---
 
