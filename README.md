@@ -49,8 +49,8 @@ Estudiante de programación enfocado en construir bases sólidas. Estudiando Ing
 ### Herramientas IA
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> VSCode
-🟣 Claude
-🟢 ChatGPT
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Claude_Logomark.svg" height="30"/> Claude
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30"/> OpenAI
 
 ---
 
